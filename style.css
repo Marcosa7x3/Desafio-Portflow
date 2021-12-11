@@ -98,8 +98,8 @@ div{
 }
 
 .Imagem{ /*Ajustei aqui*/
-    width: 400px;
-    height: 400px;
+    width: 280px;
+    height: 280px;
 }
 
 .Caixa1{
@@ -108,7 +108,7 @@ div{
 }
 
 .Caixa2{ /*Ajustei aqui*/
-    width: 3vw;
-    height: 7vh;
-    padding: 20px;
+    width: 5vw;
+    height: 12vh;
+    padding: 25px;
 }
